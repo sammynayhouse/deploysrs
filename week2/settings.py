@@ -25,7 +25,7 @@ SECRET_KEY = 'yp32^6*=m(a)ar!-9w_ngkm2+-((zw-megof_+@h$%v1$=3*t('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["0.0.0.0"]
 
 
 # Application definition
